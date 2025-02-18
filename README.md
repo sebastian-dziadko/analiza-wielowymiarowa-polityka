@@ -22,7 +22,7 @@ Analiza pozwoliła na wyodrębnienie kluczowych grup wyborców, a także na zroz
 ## Jak używać?
 
 1. Pobierz wszystkie pliki projektu.
-2. Załaduj dane dotyczące  ("Cechy nomin", "pytania_metr").
+2. Załaduj dane potrzebne do wykonania wszystkich analiz, które znajdują się w plikach .xlsx
 3. Uruchom skrypt RStudio ("Analiza_wielowymiarowa.r") , aby wykonać analizy.
 4. Sprawdź wyniki w postaci wizualizacji oraz raportów generowanych przez skrypt.
 5. Zajrzyj do raportu: raport_scena_polityczna, jeśli chcesz poznać główne wnioski z badania.
